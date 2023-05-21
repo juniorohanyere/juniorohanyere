@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Junior Ohanyere 
-- 👀 I’m interested in Java and Python programming language. Also interested in Android programming and cyber security or hacking 
+- 👀 I’m interested in Java, C, and Python programming language. Also interested in Android programming and cyber security or hacking 
 - 🌱 I’m currently learning Python and C programming languages
-- 💞️ I’m looking to collaborate on a huge, distinct, and unique project especially based on cyber security 
+- 💞️ I’m looking to collaborate on a huge, distinct, and unique project especially based on the cyber security or hacking industry 
 - 📫 How to reach me ? 
 * **blog:** https://twinjnr.blogspot.com
 * **linkedin:** https://www.linkedin.com/in/juniorohanyere
